@@ -1,5 +1,12 @@
 # Comment Bomb
 
-This is a script I wrote to test my websites. I used this to flood my site with comments that I could then work on ratelimiting ETC. 
+This is a script I wrote to test my websites comment form. 
 
-Requires Python3 and Chrome selenium webdriver.
+I used this to flood a site with comments. 
+
+This gives to a way to work on rateliming or antispace plugins within wordpress , etc. 
+
+## Installing
+
+*Requires Python3
+*Chrome selenium webdriver.
